@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1678882996 source:/home/jmoore/GitRepo/SnackMachine/main.cpp
+	"SnackMachine.h"
+
+1678883558 /home/jmoore/GitRepo/SnackMachine/include/SnackMachine.h
+	"Prices.h"
+	"UserSelection.h"
+	"Inventory.h"
+
+1678883558 source:/home/jmoore/GitRepo/SnackMachine/src/Prices.cpp
+	"Prices.h"
+	<iostream>
+	<math.h>
+
+1678883558 /home/jmoore/GitRepo/SnackMachine/include/Prices.h
+	<string>
+
+1678883781 source:/home/jmoore/GitRepo/SnackMachine/src/UserSelection.cpp
+	"UserSelection.h"
+	<iostream>
+
+1678883644 /home/jmoore/GitRepo/SnackMachine/include/UserSelection.h
+	<string>
+
+1678884831 source:/home/jmoore/GitRepo/SnackMachine/src/SnackMachine.cpp
+	"SnackMachine.h"
+	"Prices.h"
+	"UserSelection.h"
+	"Inventory.h"
+	<iostream>
+
+1678884809 /home/jmoore/GitRepo/SnackMachine/include/Inventory.h
+	<string>
+	<iostream>
+
+1678884844 source:/home/jmoore/GitRepo/SnackMachine/src/Inventory.cpp
+	"Inventory.h"
+
